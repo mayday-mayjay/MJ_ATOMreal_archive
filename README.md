@@ -50,12 +50,12 @@ atom's main thing was that they made a lot of recolor sets for various spritepac
 ## 🌙 ⭑ Credits
 
   * ![discord](.github/icons/discord.svg) DJMayJay#2001 / The DreamScape system
-  — main concept creator and selector coding
+  — main concept creator and hoarder
   * ![reddit](.github/icons/reddit.svg) [u/my-otter-self](https://reddit.com/u/my-otter-self)
   ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@my-otter-self](https://github.com/my-otter-self)
   — repo maintainer, general help
   * ATOM_real (sigh)
-  — original maker ofthe packs
+  — original maker of the recolor packs
   * multiple artists atom used the works of to make recolors 
   — their names should be in file names or jsons
 
