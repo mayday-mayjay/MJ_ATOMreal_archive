@@ -55,9 +55,9 @@ atom's main thing was that they made a lot of recolor sets for various spritepac
   ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@my-otter-self](https://github.com/my-otter-self)
   — repo maintainer, general help
   * ATOM_real (sigh)
-  — original maker of the packs
+  — original maker ofthe packs
   * multiple artists atom used the works of to make recolors 
-  - names should be in file names or jsons
+  — their names should be in file names or jsons
 
 ## 🪐 ⭑ Join our Discord
 
