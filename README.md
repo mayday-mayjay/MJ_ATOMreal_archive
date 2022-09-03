@@ -27,7 +27,7 @@ the main part we need are the images that'll actually show up on monika when she
 
 4. opening an issue and linking us to a spritepack that recreates one of atom's work, we won't put it directly in the archive since its not an atom original so we don't unrightfully repost someone else's work (unless we are given permission ofc) but! we will link it in a section of this page for you to use/find!
 
-####[click here if you would like to know how to make an issue for us to talk!](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+[click here if you would like to know how to make an issue for us to talk!](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
 ## 🌙 ⭑ Credits
 
