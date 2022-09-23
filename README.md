@@ -11,7 +11,7 @@ this is an archive of u/ATOM_real / u/The_Foothills' massive spritepack drive! a
 
 ### ⛔ !! note: this has *all* of their rpys scrubbed from the packs until further notices, including gift reactions, outfit modes, locations, ect. if you want atom's original selectors (table and mask) they're not in this repo, they're being [maintained by u/mayday-mayjay here](https://github.com/mayday-mayjay/MJ-MAS-selector-city)
 
-this archive is very  incomplete due to atom's mega/gdrive being deleted along with their original reddit account, and we'd love your help to complete it! keep reading to find out how you can help! 
+this archive may be incomplete due to atom's mega/gdrive being deleted along with their original reddit account, and we'd love your help to complete it! keep reading to find out how you can help! 
 
 ## 📡 ⭑ how to help finish the archive
 
@@ -41,7 +41,8 @@ atom's main thing was that they made a lot of recolor sets for various spritepac
 * "py" yellow
 * conifer
 * emerald green / lunar green / sea green
-* pelorous / "gimp tint"
+* pelorous 
+* "gimp tint"
 * aquamarine
 * (bright blue) sapphire
 * ghost blue + transparent ghost edits 
